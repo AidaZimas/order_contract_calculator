@@ -1,0 +1,11 @@
+/.idea/
+/.history/
+/.vscode/
+/output/embeddings.index
+/output/metadata.pkl
+/.env
+/*_project/
+/.venv
+/payloads/
+__pycache__/
+*.py[cod]

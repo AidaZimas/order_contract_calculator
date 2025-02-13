@@ -1,0 +1,1674 @@
+[
+    {
+        "NAME": "credit.decision",
+        "TEXT_VALUE": "OK"
+    },
+    {
+        "NAME": "dealer.city",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "dealer.code",
+        "TEXT_VALUE": "KSA1"
+    },
+    {
+        "NAME": "dealer.email",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "dealer.name",
+        "TEXT_VALUE": "Telia internal"
+    },
+    {
+        "NAME": "dealer.phone",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "dealer.street",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "dealer.zip",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "delivery.city",
+        "TEXT_VALUE": "Heimdal"
+    },
+    {
+        "NAME": "delivery.co",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "delivery.contactPhone",
+        "TEXT_VALUE": "45937475"
+    },
+    {
+        "NAME": "delivery.direction",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "delivery.email",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "delivery.firstName",
+        "TEXT_VALUE": "LEON"
+    },
+    {
+        "NAME": "delivery.floor",
+        "TEXT_VALUE": "01"
+    },
+    {
+        "NAME": "delivery.fullName",
+        "TEXT_VALUE": "LEON MELAND"
+    },
+    {
+        "NAME": "delivery.fullStreet",
+        "TEXT_VALUE": "HESTESKOEN 530 01"
+    },
+    {
+        "NAME": "delivery.houseLetter",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "delivery.houseNo",
+        "TEXT_VALUE": "530"
+    },
+    {
+        "NAME": "delivery.lastName",
+        "TEXT_VALUE": "MELAND"
+    },
+    {
+        "NAME": "delivery.locality",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "delivery.room",
+        "TEXT_VALUE": "04"
+    },
+    {
+        "NAME": "delivery.street",
+        "TEXT_VALUE": "HESTESKOEN"
+    },
+    {
+        "NAME": "delivery.zip",
+        "TEXT_VALUE": "7080"
+    },
+    {
+        "NAME": "documentList.existingDocument[1].documentType",
+        "TEXT_VALUE": "PRIVATE_ORDER_CONTRACT"
+    },
+    {
+        "NAME": "documentList.existingDocument[1].id",
+        "TEXT_VALUE": "3040157"
+    },
+    {
+        "NAME": "documentList.existingDocument[2].documentType",
+        "TEXT_VALUE": "PRIVATE_TERMS_TF_SWITCH"
+    },
+    {
+        "NAME": "documentList.existingDocument[2].id",
+        "TEXT_VALUE": "3040158"
+    },
+    {
+        "NAME": "documentList.existingDocument[3].documentType",
+        "TEXT_VALUE": "PRIVATE_TERMS_TF_DOWNPAYMENT"
+    },
+    {
+        "NAME": "documentList.existingDocument[3].id",
+        "TEXT_VALUE": "3040159"
+    },
+    {
+        "NAME": "documentList.existingDocument[4].documentType",
+        "TEXT_VALUE": "PRIVATE_INSURANCE_PRODUCT_INFORMATION_DOCUMENT_SWITCH"
+    },
+    {
+        "NAME": "documentList.existingDocument[4].id",
+        "TEXT_VALUE": "3040160"
+    },
+    {
+        "NAME": "documentList.existingDocument[5].documentType",
+        "TEXT_VALUE": "PRIVATE_SEF_FORM_SWITCH"
+    },
+    {
+        "NAME": "documentList.existingDocument[5].id",
+        "TEXT_VALUE": "3040161"
+    },
+    {
+        "NAME": "documentList.existingDocument[6].documentType",
+        "TEXT_VALUE": "PRIVATE_TERMS_TF_SWITCH_INSURANCE"
+    },
+    {
+        "NAME": "documentList.existingDocument[6].id",
+        "TEXT_VALUE": "3040162"
+    },
+    {
+        "NAME": "documentList.existingDocument[7].documentType",
+        "TEXT_VALUE": "PRIVATE_TERMS_AND_CONDITIONS"
+    },
+    {
+        "NAME": "documentList.existingDocument[7].id",
+        "TEXT_VALUE": "3040163"
+    },
+    {
+        "NAME": "order.chanelCode",
+        "TEXT_VALUE": "INT_STORE"
+    },
+    {
+        "NAME": "order.completedDate",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "order.date",
+        "TEXT_VALUE": "2025-02-12T07:50:36.672+01:00"
+    },
+    {
+        "NAME": "order.dealerId",
+        "TEXT_VALUE": "KSA1"
+    },
+    {
+        "NAME": "order.isAuthenticated",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "order.orderId",
+        "TEXT_VALUE": "3917109"
+    },
+    {
+        "NAME": "order.salesInitials",
+        "TEXT_VALUE": "3037"
+    },
+    {
+        "NAME": "order.state",
+        "TEXT_VALUE": "SUBMITTED"
+    },
+    {
+        "NAME": "orderer.birthDate",
+        "TEXT_VALUE": "1966-09-07"
+    },
+    {
+        "NAME": "orderer.city",
+        "TEXT_VALUE": "Heimdal"
+    },
+    {
+        "NAME": "orderer.co",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "orderer.contactPhone",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "orderer.direction",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "orderer.email",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "orderer.firstName",
+        "TEXT_VALUE": "Leon"
+    },
+    {
+        "NAME": "orderer.floor",
+        "TEXT_VALUE": "01"
+    },
+    {
+        "NAME": "orderer.fullName",
+        "TEXT_VALUE": "Leon Meland"
+    },
+    {
+        "NAME": "orderer.fullStreet",
+        "TEXT_VALUE": "Hesteskoen 530 01"
+    },
+    {
+        "NAME": "orderer.houseLetter",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "orderer.houseNo",
+        "TEXT_VALUE": "530"
+    },
+    {
+        "NAME": "orderer.identificationMethodType",
+        "TEXT_VALUE": "KNOWN_BY_SALES_AGENT"
+    },
+    {
+        "NAME": "orderer.identificationValue",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "orderer.lastName",
+        "TEXT_VALUE": "Meland"
+    },
+    {
+        "NAME": "orderer.locality",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "orderer.room",
+        "TEXT_VALUE": "04"
+    },
+    {
+        "NAME": "orderer.street",
+        "TEXT_VALUE": "Hesteskoen"
+    },
+    {
+        "NAME": "orderer.zip",
+        "TEXT_VALUE": "7080"
+    },
+    {
+        "NAME": "salesAgent.email",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "salesAgent.firstName",
+        "TEXT_VALUE": "Trond Vestli"
+    },
+    {
+        "NAME": "salesAgent.firstNameLastInitial",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "salesAgent.fullName",
+        "TEXT_VALUE": "Trond Vestli"
+    },
+    {
+        "NAME": "salesAgent.lastName",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "salesAgent.phone",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].barcode",
+        "TEXT_VALUE": "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"
+    },
+    {
+        "NAME": "subscriptions[1].billing.city",
+        "TEXT_VALUE": "Heimdal"
+    },
+    {
+        "NAME": "subscriptions[1].billing.co",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.contactPhone",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.direction",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.email",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "subscriptions[1].billing.firstName",
+        "TEXT_VALUE": "LEON"
+    },
+    {
+        "NAME": "subscriptions[1].billing.floor",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.fullName",
+        "TEXT_VALUE": "LEON MELAND"
+    },
+    {
+        "NAME": "subscriptions[1].billing.fullStreet",
+        "TEXT_VALUE": "HESTESKOEN 530"
+    },
+    {
+        "NAME": "subscriptions[1].billing.houseLetter",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.houseNo",
+        "TEXT_VALUE": "530"
+    },
+    {
+        "NAME": "subscriptions[1].billing.invoiceEmailAddress",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "subscriptions[1].billing.invoiceType",
+        "TEXT_VALUE": "EE"
+    },
+    {
+        "NAME": "subscriptions[1].billing.lastName",
+        "TEXT_VALUE": "MELAND"
+    },
+    {
+        "NAME": "subscriptions[1].billing.locality",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.room",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].billing.street",
+        "TEXT_VALUE": "HESTESKOEN"
+    },
+    {
+        "NAME": "subscriptions[1].billing.zip",
+        "TEXT_VALUE": "7080"
+    },
+    {
+        "NAME": "subscriptions[1].contract.ban",
+        "TEXT_VALUE": "381550615"
+    },
+    {
+        "NAME": "subscriptions[1].contract.existingBan",
+        "TEXT_VALUE": "381550615"
+    },
+    {
+        "NAME": "subscriptions[1].contractPeriod",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].disclaimers[1].text",
+        "TEXT_VALUE": "Etter 100 GB reduseres hastigheten til 3 Mbit/s. Det p&aring;l&oslash;per ingen ekstra kostnader, og du kan fortsatt surfe og streame videre p&aring; mobilen din."
+    },
+    {
+        "NAME": "subscriptions[1].disclaimers[2].text",
+        "TEXT_VALUE": "Se egne priser til/i utlandet: https://www.telia.no/priser-i-utlandet/, og for spesialnumre: https://www.telia.no/priser-i-norge/. Hastighet varierer etter kapasitet og andre forhold: https://www.telia.no/hastighet/."
+    },
+    {
+        "NAME": "subscriptions[1].donorConsent.type",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].donorConsent.value",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].donorConsent.writtenConsentGiven",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.downPaymentAmountExVat",
+        "TEXT_VALUE": "9964.8"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.downPaymentAmountInVat",
+        "TEXT_VALUE": "12216"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.installmentAmountExVat",
+        "TEXT_VALUE": "415.2"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.installmentAmountInVat",
+        "TEXT_VALUE": "509"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.lastInstallmentAmountExVat",
+        "TEXT_VALUE": "415.2"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.lastInstallmentAmountInVat",
+        "TEXT_VALUE": "509"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.lastInstallmentIsDifferent",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].downPayment.numberOfInstallments",
+        "TEXT_VALUE": "24"
+    },
+    {
+        "NAME": "subscriptions[1].handset",
+        "TEXT_VALUE": "Apple iPhone 14 128 GB Gul"
+    },
+    {
+        "NAME": "subscriptions[1].handsetPrice",
+        "TEXT_VALUE": "12216,00"
+    },
+    {
+        "NAME": "subscriptions[1].handsetPriceExVat",
+        "TEXT_VALUE": "9964,80"
+    },
+    {
+        "NAME": "subscriptions[1].icc",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].id",
+        "TEXT_VALUE": "5559479"
+    },
+    {
+        "NAME": "subscriptions[1].imei",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].isNewBan",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].isNewSubscription",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].isNpTerminationPermitted",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].isPortingSubscription",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].isPreToPost",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].isPrepaid",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].isSimCardHandout",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].legal.birthDate",
+        "TEXT_VALUE": "1966-09-07"
+    },
+    {
+        "NAME": "subscriptions[1].legal.city",
+        "TEXT_VALUE": "Heimdal"
+    },
+    {
+        "NAME": "subscriptions[1].legal.co",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legal.contactPhone",
+        "TEXT_VALUE": "45937475"
+    },
+    {
+        "NAME": "subscriptions[1].legal.direction",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legal.email",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "subscriptions[1].legal.firstName",
+        "TEXT_VALUE": "Leon"
+    },
+    {
+        "NAME": "subscriptions[1].legal.floor",
+        "TEXT_VALUE": "01"
+    },
+    {
+        "NAME": "subscriptions[1].legal.fullName",
+        "TEXT_VALUE": "Leon Meland"
+    },
+    {
+        "NAME": "subscriptions[1].legal.fullStreet",
+        "TEXT_VALUE": "Hesteskoen 530 01"
+    },
+    {
+        "NAME": "subscriptions[1].legal.houseLetter",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legal.houseNo",
+        "TEXT_VALUE": "530"
+    },
+    {
+        "NAME": "subscriptions[1].legal.identificationMethodType",
+        "TEXT_VALUE": "KNOWN_BY_SALES_AGENT"
+    },
+    {
+        "NAME": "subscriptions[1].legal.identificationValue",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legal.lastName",
+        "TEXT_VALUE": "Meland"
+    },
+    {
+        "NAME": "subscriptions[1].legal.locality",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legal.room",
+        "TEXT_VALUE": "04"
+    },
+    {
+        "NAME": "subscriptions[1].legal.street",
+        "TEXT_VALUE": "Hesteskoen"
+    },
+    {
+        "NAME": "subscriptions[1].legal.zip",
+        "TEXT_VALUE": "7080"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.birthDate",
+        "TEXT_VALUE": "1966-09-07"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.city",
+        "TEXT_VALUE": "Heimdal"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.co",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.contactPhone",
+        "TEXT_VALUE": "45937475"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.direction",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.email",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.firstName",
+        "TEXT_VALUE": "LEON"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.floor",
+        "TEXT_VALUE": "01"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.fullName",
+        "TEXT_VALUE": "LEON MELAND"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.fullStreet",
+        "TEXT_VALUE": "HESTESKOEN 530 01"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.houseLetter",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.houseNo",
+        "TEXT_VALUE": "530"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.lastName",
+        "TEXT_VALUE": "MELAND"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.locality",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.room",
+        "TEXT_VALUE": "04"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.street",
+        "TEXT_VALUE": "HESTESKOEN"
+    },
+    {
+        "NAME": "subscriptions[1].legalOwner.zip",
+        "TEXT_VALUE": "7080"
+    },
+    {
+        "NAME": "subscriptions[1].msisdn",
+        "TEXT_VALUE": "45937475"
+    },
+    {
+        "NAME": "subscriptions[1].npAfterCommitment",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].npContact",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].npDate",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].npMsisdn",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].npOperator",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].offeringChangeType",
+        "TEXT_VALUE": "UPGRADE"
+    },
+    {
+        "NAME": "subscriptions[1].operation",
+        "TEXT_VALUE": "CHANGE"
+    },
+    {
+        "NAME": "subscriptions[1].product",
+        "TEXT_VALUE": "Telia X Start"
+    },
+    {
+        "NAME": "subscriptions[1].product.current",
+        "TEXT_VALUE": "Telia Mobil 5 GB kr 329 med telefon og 12 mnd avtaletid"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.commitmentEnd",
+        "TEXT_VALUE": "2026-01-22T00:00:00.000+01:00"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.commitmentStart",
+        "TEXT_VALUE": "2025-01-23T00:00:00.000+01:00"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.disclaimers[1].text",
+        "TEXT_VALUE": "Etter 5 GB, pluss eventuell oppspart data med Data Rollover, reduseres hastigheten til 64 Kbit/s. Det p&aring;l&oslash;per ingen ekstra kostnader, men du kan kj&oslash;pe ekstra datapakker."
+    },
+    {
+        "NAME": "subscriptions[1].product.current.disclaimers[2].text",
+        "TEXT_VALUE": "Se egne priser til/i utlandet: https://www.telia.no/priser-i-utlandet/, og for spesialnumre: https://www.telia.no/priser-i-norge/. Hastighet varierer etter kapasitet og andre forhold: https://www.telia.no/hastighet/."
+    },
+    {
+        "NAME": "subscriptions[1].product.current.hasActiveCommitment",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.monthlyCharge.exVat",
+        "TEXT_VALUE": "329"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.monthlyCharge.inVat",
+        "TEXT_VALUE": "329"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.offeringDescriptionLong",
+        "TEXT_VALUE": "Her f&aring;r du:\n&bull;\tFri bruk av tale, SMS og MMS\n&bull;\t5G inkludert\n&bull;\tData Rollover\n&bull;\tData, Tale, SMS og MMS kan brukes i hele EU, E&Oslash;S, Storbritannia og Sveits."
+    },
+    {
+        "NAME": "subscriptions[1].product.current.offeringDescriptionShort",
+        "TEXT_VALUE": "5 GB og Roam Like Home i EU, E&Oslash;S, Storbritannia og Sveits"
+    },
+    {
+        "NAME": "subscriptions[1].product.current.shortName",
+        "TEXT_VALUE": "Telia Mobil 5 GB"
+    },
+    {
+        "NAME": "subscriptions[1].product.disclaimers[1].text",
+        "TEXT_VALUE": "Etter 100 GB reduseres hastigheten til 3 Mbit/s. Det p&aring;l&oslash;per ingen ekstra kostnader, og du kan fortsatt surfe og streame videre p&aring; mobilen din."
+    },
+    {
+        "NAME": "subscriptions[1].product.disclaimers[2].text",
+        "TEXT_VALUE": "Se egne priser til/i utlandet: https://www.telia.no/priser-i-utlandet/, og for spesialnumre: https://www.telia.no/priser-i-norge/. Hastighet varierer etter kapasitet og andre forhold: https://www.telia.no/hastighet/."
+    },
+    {
+        "NAME": "subscriptions[1].product.monthlyCharge.exVat",
+        "TEXT_VALUE": "383"
+    },
+    {
+        "NAME": "subscriptions[1].product.monthlyCharge.inVat",
+        "TEXT_VALUE": "479"
+    },
+    {
+        "NAME": "subscriptions[1].product.offeringDescriptionLong",
+        "TEXT_VALUE": "Her f&aring;r du:\n&bull;\tSurf og stream fritt p&aring; mobilen, uten &aring; g&aring; tom for data, opptil 10 Mbit/s.\n&bull;\tFri bruk av tale, SMS, MMS og 5G data.\n&bull;\tData, Tale, SMS og MMS kan brukes i hele EU, E&Oslash;S, Storbritannia og Sveits.\n&bull;\tSamler du flere abonnement p&aring; &eacute;n regning sparer du penger."
+    },
+    {
+        "NAME": "subscriptions[1].product.offeringDescriptionShort",
+        "TEXT_VALUE": "Abonnementet som aldri g&aring;r tom for data. Hastighet opptil 10 Mbit/s."
+    },
+    {
+        "NAME": "subscriptions[1].product.shortName",
+        "TEXT_VALUE": "Telia X Start"
+    },
+    {
+        "NAME": "subscriptions[1].resultingServices",
+        "TEXT_VALUE": "\"Nettslett inkludert for Telia X Start 10 Mbit\",\"50 kr rabatt 6 m&aring;neder\",\"Homerun\",\"Delbetaling\",\"Telia Trygg 2 md. inkludert\",\"Taletjenester\",\"Telia Finance SVITSJ i 24 md.\",\"4G Tale\",\"Mobildata tilgang\",\"SVITSJ Plussforsikring 2 md. kostnadsfritt\",\"MMS\",\"5G\",\"Personsvar\",\"Roam Like Home (EU, E&Oslash;S, Storbritannia og Sveits)\",\"Viaplay kampanje\",\"Nettvakt\""
+    },
+    {
+        "NAME": "subscriptions[1].services[10].action",
+        "TEXT_VALUE": "ADD"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].category",
+        "TEXT_VALUE": "VAS"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].characteristics[1].name",
+        "TEXT_VALUE": "CONTRACT_ID"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].characteristics[1].value",
+        "TEXT_VALUE": "N00599083"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].characteristics[2].name",
+        "TEXT_VALUE": "IMEI"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].characteristics[2].value",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].services[10].classification",
+        "TEXT_VALUE": "CUSTOMER_SELECTED"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].code",
+        "TEXT_VALUE": "INSURANCE_SWITCH_4+INSURLS4V"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].insurance.deductibles",
+        "TEXT_VALUE": "Har telefonen en forsikringssum p&aring; opptil kr 7599 er egenandelen kr 600. Har telefonen en forsikringssum fra kr 7600 er egenandelen kr 1000."
+    },
+    {
+        "NAME": "subscriptions[1].services[10].insurance.security.directives",
+        "TEXT_VALUE": "7.1. IMEI-nummeret m&aring; v&aelig;re identifiserbart. \n7.2. Telefonen skal oppbevares og brukes slik at den ikke blir utsatt for kondens og/eller fukt. \n7.3. Mobiltelefonen m&aring; behandles, brukes, samt repareres i henhold til produsentens instrukser og bruksanvisning, herunder at det skal benyttes autorisert verksted ved reparasjoner.\nHar Sikrede fors&oslash;mt &aring; overholde f&oslash;lgende sikkerhetsforskrifter, kan retten til erstatning bortfalle helt eller delvis (forsikringsavtalelovens &sect; 4-8). Dette gjelder ogs&aring; Sikredes samboer/ektefelle\n(forsikringsavtalelovens &sect; 4-11).\nHar du ved inng&aring;elsen av din Svitsjavtale valgt tilleggsdekningen Svitsj Plussforsikring tilkommer, i tillegg til ovennevnte, f&oslash;lgende sikkerhetsplikter for Sikrede:\n7.4 Mobiltelefonen m&aring; under ingen omstendighet forlates uten tilsyn.\n7.5 N&aring;r mobiltelefonen ikke er i vanlig bruk skal den v&aelig;re innel&aring;st i bygning/rom eller i annen avl&aring;st oppbevaringsenhet. Forlates telefonen i bil skal bilen v&aelig;re avl&aring;st og telefonen oppbevart i separat hanskerom/bagasjerom eller p&aring; annen m&aring;te slik at mobiltelefonen ikke er synlig fra utsiden."
+    },
+    {
+        "NAME": "subscriptions[1].services[10].insurance.terms.type",
+        "TEXT_VALUE": "SWITCH"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].insuranceClass",
+        "TEXT_VALUE": "SWITCH"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].monthlyCharge.exVat",
+        "TEXT_VALUE": "119"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].monthlyCharge.inVat",
+        "TEXT_VALUE": "119"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].monthlyDiscount.durationInMonths",
+        "TEXT_VALUE": "2"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].monthlyDiscount.exVat",
+        "TEXT_VALUE": "119"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].monthlyDiscount.inVat",
+        "TEXT_VALUE": "119"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].name",
+        "TEXT_VALUE": "SVITSJ Plussforsikring 2 md. kostnadsfritt"
+    },
+    {
+        "NAME": "subscriptions[1].services[10].shortName",
+        "TEXT_VALUE": "SVITSJ Plussforsikring"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].category",
+        "TEXT_VALUE": "SYSTEM"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].code",
+        "TEXT_VALUE": "MMS"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].customerRelevant",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].name",
+        "TEXT_VALUE": "MMS"
+    },
+    {
+        "NAME": "subscriptions[1].services[11].shortName",
+        "TEXT_VALUE": "MMS"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].category",
+        "TEXT_VALUE": "SERVICE"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].code",
+        "TEXT_VALUE": "5G_NSA_2"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].name",
+        "TEXT_VALUE": "5G"
+    },
+    {
+        "NAME": "subscriptions[1].services[12].shortName",
+        "TEXT_VALUE": "5G"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].category",
+        "TEXT_VALUE": "SERVICE"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[1].name",
+        "TEXT_VALUE": "VVM"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[1].value",
+        "TEXT_VALUE": "Y"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[2].name",
+        "TEXT_VALUE": "NOTIFY-TYPE"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[2].value",
+        "TEXT_VALUE": "M"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[3].name",
+        "TEXT_VALUE": "LANGUAGE"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[3].value",
+        "TEXT_VALUE": "no-NO"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[4].name",
+        "TEXT_VALUE": "WHO-CALLED"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].characteristics[4].value",
+        "TEXT_VALUE": "Y"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].code",
+        "TEXT_VALUE": "VOICEMAIL_B2C_POS"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].name",
+        "TEXT_VALUE": "Personsvar"
+    },
+    {
+        "NAME": "subscriptions[1].services[13].shortName",
+        "TEXT_VALUE": "Personsvar"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].category",
+        "TEXT_VALUE": "VAS"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].code",
+        "TEXT_VALUE": "RLH_EU_B2C"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].name",
+        "TEXT_VALUE": "Roam Like Home (EU, E&Oslash;S, Storbritannia og Sveits)"
+    },
+    {
+        "NAME": "subscriptions[1].services[14].shortName",
+        "TEXT_VALUE": "Roam Like Home"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].action",
+        "TEXT_VALUE": "DELETE"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].category",
+        "TEXT_VALUE": "VAS"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].classification",
+        "TEXT_VALUE": "LOST"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].code",
+        "TEXT_VALUE": "NTSL_TELIA_MOBIL_05GB_2025"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].name",
+        "TEXT_VALUE": "Nettslett inkludert for Telia Mobil 5 GB"
+    },
+    {
+        "NAME": "subscriptions[1].services[15].shortName",
+        "TEXT_VALUE": "Nettslett"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].action",
+        "TEXT_VALUE": "ADD"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].category",
+        "TEXT_VALUE": "VAS"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].classification",
+        "TEXT_VALUE": "CUSTOMER_SELECTED"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].code",
+        "TEXT_VALUE": "NCVPLCH02"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].monthlyCharge.exVat",
+        "TEXT_VALUE": "127.2"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].monthlyCharge.inVat",
+        "TEXT_VALUE": "159"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].name",
+        "TEXT_VALUE": "Viaplay kampanje"
+    },
+    {
+        "NAME": "subscriptions[1].services[16].shortName",
+        "TEXT_VALUE": "Viaplay"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].category",
+        "TEXT_VALUE": "SERVICE"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].code",
+        "TEXT_VALUE": "NETVAKT01"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].name",
+        "TEXT_VALUE": "Nettvakt"
+    },
+    {
+        "NAME": "subscriptions[1].services[17].shortName",
+        "TEXT_VALUE": "Nettvakt"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].action",
+        "TEXT_VALUE": "ADD"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].category",
+        "TEXT_VALUE": "VAS"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].classification",
+        "TEXT_VALUE": "CUSTOMER_SELECTED"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].code",
+        "TEXT_VALUE": "NTSL_TELIA_X_START_2025"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].name",
+        "TEXT_VALUE": "Nettslett inkludert for Telia X Start 10 Mbit"
+    },
+    {
+        "NAME": "subscriptions[1].services[1].shortName",
+        "TEXT_VALUE": "Nettslett"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].action",
+        "TEXT_VALUE": "ADD"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].category",
+        "TEXT_VALUE": "PROMO"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].classification",
+        "TEXT_VALUE": "CUSTOMER_SELECTED"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].code",
+        "TEXT_VALUE": "NGRC122"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].lifetimeInMonths",
+        "TEXT_VALUE": "6"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].monthlyCharge.exVat",
+        "TEXT_VALUE": "-40"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].monthlyCharge.inVat",
+        "TEXT_VALUE": "-50"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].name",
+        "TEXT_VALUE": "50 kr rabatt 6 m&aring;neder"
+    },
+    {
+        "NAME": "subscriptions[1].services[2].shortName",
+        "TEXT_VALUE": "50 kr rabatt 6 m&aring;neder"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].category",
+        "TEXT_VALUE": "SYSTEM"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].code",
+        "TEXT_VALUE": "HOMERUN"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].customerRelevant",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].name",
+        "TEXT_VALUE": "Homerun"
+    },
+    {
+        "NAME": "subscriptions[1].services[3].shortName",
+        "TEXT_VALUE": "Homerun"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].category",
+        "TEXT_VALUE": "LEAS_FLEX"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].characteristics[1].name",
+        "TEXT_VALUE": "MODEL"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].characteristics[1].value",
+        "TEXT_VALUE": "Apple iPhone 15 128 GB Gul"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].code",
+        "TEXT_VALUE": "LEAS_FLEX_B2C_EXISTING"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].name",
+        "TEXT_VALUE": "Delbetaling"
+    },
+    {
+        "NAME": "subscriptions[1].services[4].shortName",
+        "TEXT_VALUE": "Delbetaling"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].action",
+        "TEXT_VALUE": "ADD"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].category",
+        "TEXT_VALUE": "VAS"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].characteristics[1].name",
+        "TEXT_VALUE": "EMAIL_ADDRESS"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].characteristics[1].value",
+        "TEXT_VALUE": "trond.vestli@telia.no"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].classification",
+        "TEXT_VALUE": "CUSTOMER_SELECTED"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].code",
+        "TEXT_VALUE": "TRYCH01+TRYBNG01"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].monthlyCharge.exVat",
+        "TEXT_VALUE": "87.2"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].monthlyCharge.inVat",
+        "TEXT_VALUE": "109"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].monthlyDiscount.durationInMonths",
+        "TEXT_VALUE": "2"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].monthlyDiscount.exVat",
+        "TEXT_VALUE": "87.2"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].monthlyDiscount.inVat",
+        "TEXT_VALUE": "109"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].name",
+        "TEXT_VALUE": "Telia Trygg 2 md. inkludert"
+    },
+    {
+        "NAME": "subscriptions[1].services[5].shortName",
+        "TEXT_VALUE": "Telia Trygg"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].category",
+        "TEXT_VALUE": "SYSTEM"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].code",
+        "TEXT_VALUE": "ID_DOUBLE"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].customerRelevant",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].name",
+        "TEXT_VALUE": "Taletjenester"
+    },
+    {
+        "NAME": "subscriptions[1].services[6].shortName",
+        "TEXT_VALUE": "ID og Dobbel"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].action",
+        "TEXT_VALUE": "ADD"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].category",
+        "TEXT_VALUE": "SWITCH"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[1].name",
+        "TEXT_VALUE": "PRODUCT_NUMBER"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[1].value",
+        "TEXT_VALUE": "9114169"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[2].name",
+        "TEXT_VALUE": "MODEL"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[2].value",
+        "TEXT_VALUE": "Apple iPhone 14 128 GB Gul"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[3].name",
+        "TEXT_VALUE": "HARDWARE_PRICE"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[3].value",
+        "TEXT_VALUE": "12216"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[4].name",
+        "TEXT_VALUE": "IMEI"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[4].value",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[5].name",
+        "TEXT_VALUE": "CONTRACT_ID"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].characteristics[5].value",
+        "TEXT_VALUE": "N00599082"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].classification",
+        "TEXT_VALUE": "CUSTOMER_SELECTED"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].code",
+        "TEXT_VALUE": "SWITCH_FLEX_TF_B2C"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.downPaymentAmountExVat",
+        "TEXT_VALUE": "9964.8"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.downPaymentAmountInVat",
+        "TEXT_VALUE": "12216"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.includedInsuranceExVat",
+        "TEXT_VALUE": "40"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.includedInsuranceInVat",
+        "TEXT_VALUE": "40"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.installmentAmountExVat",
+        "TEXT_VALUE": "415.2"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.installmentAmountInVat",
+        "TEXT_VALUE": "509"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.isTeliaFinance",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.lastInstallmentAmountExVat",
+        "TEXT_VALUE": "415.2"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.lastInstallmentAmountInVat",
+        "TEXT_VALUE": "509"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.lastInstallmentIsDifferent",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].flexibleSwitch.numberOfInstallments",
+        "TEXT_VALUE": "24"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].insurance.deductibles",
+        "TEXT_VALUE": "Har telefonen en forsikringssum p&aring; opptil kr 7599 er egenandelen kr 600. Har telefonen en forsikringssum fra kr 7600 er egenandelen kr 1000."
+    },
+    {
+        "NAME": "subscriptions[1].services[7].insurance.security.directives",
+        "TEXT_VALUE": "7.1. IMEI-nummeret m&aring; v&aelig;re identifiserbart. \n7.2. Telefonen skal oppbevares og brukes slik at den ikke blir utsatt for kondens og/eller fukt. \n7.3. Mobiltelefonen m&aring; behandles, brukes, samt repareres i henhold til produsentens instrukser og bruksanvisning, herunder at det skal benyttes autorisert verksted ved reparasjoner.\nHar Sikrede fors&oslash;mt &aring; overholde f&oslash;lgende sikkerhetsforskrifter, kan retten til erstatning bortfalle helt eller delvis (forsikringsavtalelovens &sect; 4-8). Dette gjelder ogs&aring; Sikredes samboer/ektefelle\n(forsikringsavtalelovens &sect; 4-11).\nHar du ved inng&aring;elsen av din Svitsjavtale valgt tilleggsdekningen Svitsj Plussforsikring tilkommer, i tillegg til ovennevnte, f&oslash;lgende sikkerhetsplikter for Sikrede:\n7.4 Mobiltelefonen m&aring; under ingen omstendighet forlates uten tilsyn.\n7.5 N&aring;r mobiltelefonen ikke er i vanlig bruk skal den v&aelig;re innel&aring;st i bygning/rom eller i annen avl&aring;st oppbevaringsenhet. Forlates telefonen i bil skal bilen v&aelig;re avl&aring;st og telefonen oppbevart i separat hanskerom/bagasjerom eller p&aring; annen m&aring;te slik at mobiltelefonen ikke er synlig fra utsiden."
+    },
+    {
+        "NAME": "subscriptions[1].services[7].insurance.terms.type",
+        "TEXT_VALUE": "SWITCH"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[7].name",
+        "TEXT_VALUE": "Telia Finance SVITSJ i 24 md."
+    },
+    {
+        "NAME": "subscriptions[1].services[7].shortName",
+        "TEXT_VALUE": "Telia SVITSJ i 24 md."
+    },
+    {
+        "NAME": "subscriptions[1].services[8].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].category",
+        "TEXT_VALUE": "SERVICE"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].code",
+        "TEXT_VALUE": "VOLTE"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].customerRelevant",
+        "TEXT_VALUE": "true"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].name",
+        "TEXT_VALUE": "4G Tale"
+    },
+    {
+        "NAME": "subscriptions[1].services[8].shortName",
+        "TEXT_VALUE": "4G Tale"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].action",
+        "TEXT_VALUE": "KEEP"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].category",
+        "TEXT_VALUE": "SYSTEM"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].classification",
+        "TEXT_VALUE": "EXISTING_NOT_TOUCHED"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].code",
+        "TEXT_VALUE": "GPRS"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].customerRelevant",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].isSecretNumber",
+        "TEXT_VALUE": "false"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].monthlyCharge.exVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].monthlyCharge.inVat",
+        "TEXT_VALUE": "0"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].name",
+        "TEXT_VALUE": "Mobildata tilgang"
+    },
+    {
+        "NAME": "subscriptions[1].services[9].shortName",
+        "TEXT_VALUE": "GPRS"
+    },
+    {
+        "NAME": "subscriptions[1].simType",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.birthDate",
+        "TEXT_VALUE": "1966-09-07T00:00:00.000+01:00"
+    },
+    {
+        "NAME": "subscriptions[1].user.city",
+        "TEXT_VALUE": "Heimdal"
+    },
+    {
+        "NAME": "subscriptions[1].user.co",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.communicationLevel",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.contactPhone",
+        "TEXT_VALUE": "45937475"
+    },
+    {
+        "NAME": "subscriptions[1].user.direction",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.directoryListingLevel",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.email",
+        "TEXT_VALUE": "Test-AutomationAccount@telia.no"
+    },
+    {
+        "NAME": "subscriptions[1].user.floor",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.fullName",
+        "TEXT_VALUE": "LEON MELAND"
+    },
+    {
+        "NAME": "subscriptions[1].user.fullStreet",
+        "TEXT_VALUE": "HESTESKOEN 530"
+    },
+    {
+        "NAME": "subscriptions[1].user.houseLetter",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.houseNo",
+        "TEXT_VALUE": "530"
+    },
+    {
+        "NAME": "subscriptions[1].user.role",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.room",
+        "TEXT_VALUE": null
+    },
+    {
+        "NAME": "subscriptions[1].user.street",
+        "TEXT_VALUE": "HESTESKOEN"
+    },
+    {
+        "NAME": "subscriptions[1].user.zip",
+        "TEXT_VALUE": "7080"
+    }
+]

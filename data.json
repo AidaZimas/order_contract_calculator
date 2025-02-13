@@ -1,0 +1,48 @@
+{
+    "product": {
+        "name": "Example Product",
+        "monthly_charge_in_vat": 500.00,
+        "monthly_discount_in_vat": 50.00,
+        "discount_duration_in_months": 6
+    },
+    "services": [
+        {
+            "name": "Service A",
+            "monthly_charge_in_vat": 20.00,
+            "action": "ADD",
+            "customer_relevant": "true",
+            "flexible_switch_is_telia_finance": "false",
+            "insurance_class": "NONE",
+            "category": "STANDARD",
+            "lifetime_in_months": 12
+        },
+        {
+            "name": "Service B",
+            "monthly_charge_in_vat": -10.00,
+            "action": "ADD",
+            "customer_relevant": "true",
+            "flexible_switch_is_telia_finance": "false",
+            "insurance_class": "NONE",
+            "category": "STANDARD",
+            "lifetime_in_months": 12
+        },
+        {
+            "name": "Service C",
+            "monthly_charge_in_vat": 15.00,
+            "action": "ADD",
+            "customer_relevant": "true",
+            "flexible_switch_is_telia_finance": "false",
+            "insurance_class": "NONE",
+            "category": "STANDARD",
+            "lifetime_in_months": 12
+        }
+    ],
+    "switch": {
+        "number_of_installments": 24,
+        "installment_amount_in_vat": 50.00,
+        "included_insurance_in_vat": 5.00,
+        "included_insurance_ex_vat": 4.00,
+        "model": "Phone Model X",
+        "imei": "123456789012345"
+    }
+}
