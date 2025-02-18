@@ -1,6 +1,7 @@
 from typing import Optional, List
 
 from src.model.characteristic import Characteristic
+from src.model.monthly_charge import MonthlyCharge
 
 
 class Service:
@@ -16,7 +17,7 @@ class Service:
         insurance=None,
         insuranceClass="",
         isSecretNumber=False,
-        monthlyCharge=None,
+        monthlyCharge: Optional[MonthlyCharge] = None,
         monthlyDiscount=None,
         name="",
         shortName="",

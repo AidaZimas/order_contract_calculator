@@ -16,6 +16,7 @@ from model.user import User
 from src.model.characteristic import Characteristic
 from src.model.flexible_switch import FlexibleSwitch
 from src.model.insurance import Insurance
+from src.model.monthly_discount import MonthlyDiscount
 
 
 def to_float(value):
@@ -138,6 +139,8 @@ def initialize_subscription(product_data):
                                                             "false") == "true",
                 numberOfInstallments=int(service_data.get("flexibleSwitch.numberOfInstallments", 0))
             )
+        else:
+            flexible_switch = FlexibleSwitch()
         characteristics = []
 
         for key, value in service_data.items():
@@ -167,8 +170,12 @@ def initialize_subscription(product_data):
                     termsType=service_data.get("insurance.terms.type", "")
                 ),
                 insuranceClass=service_data.get("insuranceClass"),
-                customerRelevant=service_data.get("customerRelevant"),
+                customerRelevant = service_data.get("customerRelevant").lower() == "true",
                 isSecretNumber=service_data.get("isSecretNumber"),
+                monthlyCharge=MonthlyCharge(
+                    exVat=to_float(service_data.get("monthlyCharge.exVat")),
+                    inVat=to_float(service_data.get("monthlyCharge.inVat"))
+                ),
                 characteristics=characteristics
             )
         )
@@ -205,6 +212,19 @@ def initialize_subscription(product_data):
         operation=data_dict.get("subscriptions[1].operation"),
         product=ProductDetails(
             name=data_dict.get("subscriptions[1].product"),
+            monthlyDiscount=MonthlyDiscount(
+                durationInMonths=to_float(data_dict.get("subscriptions[1].product.monthlyDiscount.durationInMonths")),
+                exVat=to_float(data_dict.get("subscriptions[1].product.monthlyDiscount.exVat")),
+                inVat=to_float(data_dict.get("subscriptions[1].product.monthlyDiscount.inVat")),
+                percentage=to_float(data_dict.get("subscriptions[1].product.monthlyDiscount.percentage"))
+            ),
+            monthlyCharge=MonthlyCharge(
+                exVat=to_float(data_dict.get("subscriptions[1].product.monthlyCharge.exVat")),
+                inVat=to_float(data_dict.get("subscriptions[1].product.monthlyCharge.inVat"))
+            ),
+            offeringDescriptionLong=data_dict.get("subscriptions[1].product.offeringDescriptionLong"),
+            offeringDescriptionShort=data_dict.get("subscriptions[1].product.offeringDescriptionShort"),
+            shortName=data_dict.get("subscriptions[1].product.shortName"),
             current=CurrentProduct(
                 name=data_dict.get("subscriptions[1].product.current"),
                 commitmentEnd=data_dict.get("subscriptions[1].product.current.commitmentEnd"),
@@ -216,8 +236,8 @@ def initialize_subscription(product_data):
                 hasActiveCommitment=data_dict.get(
                     "subscriptions[1].product.current.hasActiveCommitment") == "true",
                 monthlyCharge=MonthlyCharge(
-                    exVat=to_float(data_dict.get("subscriptions[1].product.current.monthlyCharge.exVat", "0")),
-                    inVat=to_float(data_dict.get("subscriptions[1].product.current.monthlyCharge.inVat", "0"))
+                    exVat=to_float(data_dict.get("subscriptions[1].product.current.monthlyCharge.exVat")),
+                    inVat=to_float(data_dict.get("subscriptions[1].product.current.monthlyCharge.inVat"))
                 ),
                 offeringDescriptionLong=data_dict.get(
                     "subscriptions[1].product.current.offeringDescriptionLong"),
@@ -228,14 +248,7 @@ def initialize_subscription(product_data):
             disclaimers=[
                 Disclaimer(text=data_dict.get(f"subscriptions[1].product.disclaimers[{i}].text"))
                 for i in range(1, 3)
-            ],
-            monthlyCharge=MonthlyCharge(
-                exVat=to_float(data_dict.get("subscriptions[1].product.monthlyCharge.exVat", "0")),
-                inVat=to_float(data_dict.get("subscriptions[1].product.monthlyCharge.inVat", "0"))
-            ),
-            offeringDescriptionLong=data_dict.get("subscriptions[1].product.offeringDescriptionLong"),
-            offeringDescriptionShort=data_dict.get("subscriptions[1].product.offeringDescriptionShort"),
-            shortName=data_dict.get("subscriptions[1].product.shortName")
+            ]
         ),
         resultingServices=data_dict.get("subscriptions[1].resultingServices", "").split(","),
         services=services,

@@ -5,7 +5,7 @@ class CurrentProduct:
         self.commitmentStart = commitmentStart
         self.disclaimers = disclaimers if disclaimers else []
         self.hasActiveCommitment = hasActiveCommitment
-        self.monthlyCharge = monthlyCharge if monthlyCharge else MonthlyCharge()
+        self.monthlyCharge = monthlyCharge
         self.offeringDescriptionLong = offeringDescriptionLong
         self.offeringDescriptionShort = offeringDescriptionShort
         self.shortName = shortName
